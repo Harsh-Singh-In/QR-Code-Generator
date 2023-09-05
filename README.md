@@ -1,7 +1,8 @@
 # QR-Code-Generator
 
 # QR (Quick Response) codes are capable of storing lots of data, and users can easily access the information by scanning the QR code.
-# In this QR Code Generator app, users can enter a text or URL to generate a QR code for it. It is a QR code generator app, not a QR code scanner.
+# In this QR Code Generator app, users can enter a text or URL to generate a QR code for it.
+# Note :  It is a QR code generator app, not a QR code scanner.
 
 # Technologies used :
 
